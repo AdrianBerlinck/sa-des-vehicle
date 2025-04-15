@@ -1,7 +1,7 @@
 'use client'
 import Link from "next/link"
 import styles from "./styles.module.css"
-import logo from '@/assets/logo_full.png';
+import logo from '@/assets/23977547-frente-visao-sombrio-silhueta-do-uma-moderno-luxo-preto-carro-isolado-em-preto-fundo-ai-gerado-gratis-foto.jpg';
 import { usePathname } from "next/navigation"
 import { MdBuild, MdCheckCircle, MdFactory, MdHome, MdInventory } from "react-icons/md";
 import Image from "next/image";
@@ -39,14 +39,14 @@ export default function NavMenu() {
 
     return (
         <div className={styles.container}>
-            <Image src={logo}  width={250} height={100} alt="" />
+            <Image src={logo}  width={250} height={150} alt="" />
             
             <div>
                 <div className={styles.profile}>
-                    <img src="https://github.com/gustavoroberto1.png" />
+                    <img src="https://github.com/AdrianBerlinck.png" />
                     <div className={styles.profileInfos}>
-                        <strong>Gustavo Souza</strong>
-                        <strong>gustavo@gmail.com</strong>
+                        <strong>Adrian Berlinck</strong>
+                        <strong>adrian@gmail.com</strong>
                     </div>
                 </div>
                 <div className={styles.content}>

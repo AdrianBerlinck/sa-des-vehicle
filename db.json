@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "freio",
+      "marca": "chevrolet",
+      "quantidade": 1,
+      "id": "9320"
+    },
+    {
+      "nome": "suspensao",
+      "marca": "2",
+      "quantidade": 5,
+      "id": "c12f"
+    },
+    {
+      "id": "2ff9",
+      "nome": "suspensao",
+      "marca": "233",
+      "quantidade": 4
+    },
+    {
+      "id": "dfd6",
+      "nome": "suspensao",
+      "marca": "233",
+      "quantidade": 4
+    }
+  ]
+}
